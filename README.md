@@ -1,3 +1,3 @@
-Hello, I'm an newbie programmer :P 
+Hello, I'm an aspiring software engineer
 
 welcome to my github page!
